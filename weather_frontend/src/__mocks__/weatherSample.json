@@ -1,0 +1,12 @@
+{
+  "locationName": "Mock City",
+  "lat": 51.51,
+  "lon": -0.13,
+  "temperatureC": 18.4,
+  "apparentTemperatureC": 18.0,
+  "humidity": 62,
+  "windKph": 14.4,
+  "conditionCode": 2,
+  "conditionText": "Partly cloudy",
+  "iconId": "⛅"
+}
